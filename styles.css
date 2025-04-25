@@ -1,9 +1,25 @@
 body{
-    background-color: red;
-}
-.container-fluid{
-    background-color: aqua;
+    width: 800px;
+    height: 600px;
 }
 
+ .img-thumbnail{
+    width: 400px;
+    height: 300px;
+    border: 0;
+   
+ }
+ .card{
+    border: 0;
+ }
+ .card-header{
+    background-color: rgb(245, 244, 244);
+ }
+ .card-body{
+    background: rgb(245, 244, 244);
+ }
+.card-img-top{
+   border-radius: 0;
+}
   
 
